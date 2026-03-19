@@ -1,14 +1,23 @@
-# Java Coding Practice
+# Java Coding Practice 🚀
 
-This repository contains my Java practice covering:
+This repository contains my Java practice and problem-solving journey, where I consistently work on improving my coding skills and understanding of core concepts.
 
-## Topics
+## 📌 Topics Covered
 - Arrays
+- Basic Maths
 - Recursion
 - Hashing
 - Sorting
 - Sliding Window
-- OOP Concepts
+- Object-Oriented Programming (OOP)
 
-## Goal
-To strengthen problem-solving skills and build a strong foundation for Full Stack Development.
+## 📚 What I’m Learning
+- Data Structures & Algorithms (DSA)
+- Problem Solving
+- Java Core Concepts
+
+## 🎯 Goal
+To strengthen problem-solving skills and build a strong foundation for becoming a Full Stack Java Developer.
+
+## 📈 Progress
+I regularly practice coding problems and update this repository to track my learning journey and improvements.
