@@ -1,4 +1,4 @@
-public class Palindrome {
+public class CheckPalindrome {
    public boolean isPalindrome(int n) {
     int reversedN = 0;
     int originalN = n;
@@ -14,7 +14,7 @@ public class Palindrome {
     }
     }  
     public static void main(String[] args) {
-        Palindrome p = new Palindrome();
+        CheckPalindrome p = new CheckPalindrome();
         System.out.println(p.isPalindrome(234382));
     }
 }
