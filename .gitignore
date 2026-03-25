@@ -1,1 +1,10 @@
-*.class 
+# IDE files
+.idea/
+.vscode/
+
+# Build files
+*.class
+out/
+
+# OS files
+.DS_Store

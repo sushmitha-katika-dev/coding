@@ -16,7 +16,7 @@ public class SubSetCheck {
     }
     public static void main(String[] args) {
         int[] arr1 = {11, 1, 13, 21, 3, 7};
-        int[] arr2 = {11, 3, 10};
+        int[] arr2 = {11, 3, };
 
         if(isSubset(arr1,arr2)){
             System.out.println("arr2 is subset of arr1");

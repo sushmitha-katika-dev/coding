@@ -19,7 +19,7 @@ public class MaxSubArraySum {
                 start = i+1;
             }
         }
-
+        System.out.println("Maximum Sum : "+maxi);
         return new int[] {ansStart,ansEnd}; 
     
 

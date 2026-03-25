@@ -12,6 +12,9 @@ public class MergeSort {
         }
         Arrays.sort(nums1);
          */
+
+        // Approach 2: Two pointers from end (optimal)
+        // Time: O(m+n), Space: O(1)
         int i = m-1;
         int j = n-1;
         int k = m + n -1;

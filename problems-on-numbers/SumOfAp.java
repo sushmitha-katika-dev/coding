@@ -9,6 +9,7 @@ public class SumOfAp {
     }
 
     public static void main(String[] args) {
+        //[2,4,6,8,10]
         int a = 2;  // first term
         int d = 2;  // common difference
         int n = 5;  // number of terms
@@ -16,3 +17,5 @@ public class SumOfAp {
         System.out.println(sumAP(a, d, n)); // 30
     }
 }
+
+// General Formula (nth term) --> Tn​=a+(n−1)d

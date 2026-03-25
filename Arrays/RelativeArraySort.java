@@ -75,7 +75,7 @@ public class RelativeArraySort {
         // Step 4: Remaining elements sorted
         for(int j = 0; j <= 1000; j++){
             while (freq[j] > 0) {
-                result[i++] = j;   // ✅ FIX HERE
+                result[i++] = j;   
                 freq[j]--;
             }
         }

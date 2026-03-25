@@ -1,4 +1,14 @@
 
+//palindrome in a range
+
+// 👉 For every number in range:
+// 1. Reverse the number
+// 2. Compare with original
+// 3. If equal → print it
+
+//Checking one number → O(log n)
+//Range → O(n log n)
+
 public class PalindromeInRange {
     public static boolean isPalindrome(int num){
         int original = num;
@@ -22,15 +32,3 @@ public class PalindromeInRange {
     }
 
 }
-
-
-//palindrome in a range
-
-// 👉 For every number in range:
-// 1. Reverse the number
-// 2. Compare with original
-// 3. If equal → print it
-
-//Checking one number → O(log n)
-//Range → O(n log n)
-

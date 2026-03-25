@@ -20,3 +20,7 @@ public class CheckPrimeNumber {
         System.out.println(isPrime(7));
     }
 }
+
+/* Prime numbers in a range
+    Same function → just loop:
+        for(int i = start; i <= end; i++) */
